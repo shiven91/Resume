@@ -1,1 +1,1 @@
-web: gunicorn resume.app:app --preload
+web: gunicorn app:app --preload
